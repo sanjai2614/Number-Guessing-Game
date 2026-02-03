@@ -3,6 +3,10 @@
 A simple and fun Number Guessing Game built using **HTML, CSS, and JavaScript**.  
 The player has to guess a number between **1 and 5**. If the guess is correct, the score increases, otherwise it decreases.
 
+## 📸 Live Demo
+
+https://number-guessing-game-sanjai2614.vercel.app/ 
+
 ---
 
 ## 🚀 Features
@@ -23,8 +27,7 @@ The player has to guess a number between **1 and 5**. If the guess is correct, t
 
 ---
 
-## 📸 Demo
 
-You can run this project locally by just opening the HTML file in your browser.
+
 
 ---
